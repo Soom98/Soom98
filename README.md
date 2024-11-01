@@ -1,5 +1,1 @@
-안녕하심까 최수민이라고 합니다.  
-아직 DS 분야 중 어느 곳으로 갈 지 모르는 사람입니다.  
-그래서 일단 SQL, PYTHON을 열심히 하는 중입니다.  
-하둡, 스파크, OPEN CV 도 공부할 예정입니다  
-그럼 20000
+기술: python(Numpy, Pandas, Matplotlib, scikit-learn, Seaborn 등), SQL 
